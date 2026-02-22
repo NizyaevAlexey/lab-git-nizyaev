@@ -4,5 +4,6 @@ int main() {
     printf("Enter your name: ");
     scanf("%s", name);
     printf("Hello, %s!", name);
+	printf("Feature in progress...\n");
     return 0;
 }
